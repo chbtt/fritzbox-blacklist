@@ -88,6 +88,7 @@ aexpstatic.com
 affiliates.de
 alliance4media.com
 amobee.com
+analytic-google.com
 apester.com
 apigurus.com
 atdmt.com
@@ -348,7 +349,6 @@ quantserve.com
 quantummetric.com
 r1.sn-4g5e6ne6.googlevideo.com
 r1.sn-4g5e6nez.googlevideo.com
-r1.sn-4g5e6nl6.googlevideo.com
 r10.sn-4g5ednzz.googlevideo.com
 r11.sn-4g5ednzz.googlevideo.com
 r15.sn-4g5ednzz.googlevideo.com
